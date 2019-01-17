@@ -2,5 +2,9 @@
 	public static void main(String args[])
 	{
 	System.out.println("Hey its your first day congratulations: ");
+	System.out.prntln("oops got it right");
+	System.out.println("Yuhu became agithub pro");	
+
+
 	}
 	}
